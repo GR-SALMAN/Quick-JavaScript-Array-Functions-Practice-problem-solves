@@ -83,4 +83,4 @@ const characters = [
 3. Is there at least one character taller than 200?
 4. Is there at least one character that has mass less than 50?
 
->If you find any problem with these solutions, please feel free to create an issue.
+>If you find any problem with these solutions, please feel free to submit an issue.
